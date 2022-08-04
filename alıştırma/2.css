@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(79, 167, 167);
+}
+
+a {
+    color: rgb(11, 119, 119);
+    font-size: 16px;
+    font-family: monospace;
+}
+
+    .first-photo {
+        width: 600px;
+    }
+
+.second-photo {
+    width: 675px;
+}
+
+.third-photo {
+    width: 600px;
+}
+
+.fourth-photo {
+    width: 675px;
+}
+
+p {
+font-size: 17px;
+color: rgb(8, 84, 97);
+font-family: monospace;
+}

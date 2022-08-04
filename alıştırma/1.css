@@ -1,0 +1,46 @@
+body {
+    background-image: url(background/reactor.jpg);
+    background-size: 150%;
+}
+
+.box {
+    inline-size: 600px;
+}
+
+body {
+    font-family: monospace;
+}
+
+a {
+    color: rgb(41, 177, 177);
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+ul {
+    font-size: 22px;
+}
+
+.text-green {
+    color: rgb(39, 206, 39);
+}
+
+.text-yellow {
+    color: yellow;
+}
+
+.text-purple {
+    color: rgb(180, 50, 197);
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+
